@@ -1,14 +1,19 @@
 export function Card(props) {
   return props.cards.map((card) => {
     return (
-      <button
-        onClick={props.move}
-        key={card.key}
-        value={card.id}
-        className="card"
-      >
-        {card.id}
-      </button>
+      <div key={card.key}>
+        <button
+          onClick={props.move}
+          value={card.id}
+          className="card-btn"
+          style={{
+            backgroundImage: `url(${card.img})`,
+            backgroundSize: 'auto',
+          }}
+        >
+          {card.id}
+        </button>
+      </div>
     );
   });
 }
