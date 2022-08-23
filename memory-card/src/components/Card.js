@@ -1,18 +1,18 @@
+import '../styles/card.css';
+
 export function Card(props) {
   return props.cards.map((card) => {
     return (
-      <div key={card.key}>
+      <div className="card" key={card.key}>
         <button
           onClick={props.move}
           value={card.id}
           className="card-btn"
           style={{
             backgroundImage: `url(${card.img})`,
-            backgroundSize: 'auto',
+            backgroundSize: 'cover',
           }}
-        >
-          {card.id}
-        </button>
+        ></button>
       </div>
     );
   });

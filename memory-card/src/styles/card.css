@@ -1,0 +1,12 @@
+button {
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+  transition: transform 0.1s;
+}
+
+button:hover {
+  transform: scale(1.02);
+  box-shadow: 0px 3px 15px rgba(246, 90, 0, 0.692);
+  cursor: pointer;
+}

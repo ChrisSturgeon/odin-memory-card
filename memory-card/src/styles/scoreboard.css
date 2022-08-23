@@ -1,0 +1,9 @@
+.scoreboard {
+  color: rgb(66, 66, 66);
+  display: flex;
+  gap: 15px;
+}
+
+.accent {
+  color: rgb(246, 90, 0);
+}
