@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/odin-memory-card/static/css/main.fc3ffb3f.css",
+    "main.js": "/odin-memory-card/static/js/main.e99ae0da.js",
+    "static/js/787.d6a8b40f.chunk.js": "/odin-memory-card/static/js/787.d6a8b40f.chunk.js",
+    "static/media/bubbs.jpeg": "/odin-memory-card/static/media/bubbs.9d1ce53a31ab5b4a8aec.jpeg",
+    "static/media/boxer.jpeg": "/odin-memory-card/static/media/boxer.a39826d58b574da25e0d.jpeg",
+    "static/media/bulldog.jpeg": "/odin-memory-card/static/media/bulldog.f6e5657d3656662ce6cf.jpeg",
+    "static/media/collie.jpeg": "/odin-memory-card/static/media/collie.ca885e5746a09b5a852b.jpeg",
+    "static/media/corgie.jpeg": "/odin-memory-card/static/media/corgie.0757ee3c479da1383b9f.jpeg",
+    "static/media/patches.jpeg": "/odin-memory-card/static/media/patches.684ee31652ed9c4991e4.jpeg",
+    "static/media/shiba.jpeg": "/odin-memory-card/static/media/shiba.fd96f89c17b80d1953fc.jpeg",
+    "static/media/charles.jpeg": "/odin-memory-card/static/media/charles.daaf709a8ed943837833.jpeg",
+    "static/media/pug.jpeg": "/odin-memory-card/static/media/pug.3ae8a65a1302dc9c41be.jpeg",
+    "index.html": "/odin-memory-card/index.html",
+    "main.fc3ffb3f.css.map": "/odin-memory-card/static/css/main.fc3ffb3f.css.map",
+    "main.e99ae0da.js.map": "/odin-memory-card/static/js/main.e99ae0da.js.map",
+    "787.d6a8b40f.chunk.js.map": "/odin-memory-card/static/js/787.d6a8b40f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc3ffb3f.css",
+    "static/js/main.e99ae0da.js"
+  ]
+}
